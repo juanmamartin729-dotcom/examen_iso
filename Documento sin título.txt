@@ -1,0 +1,30 @@
+﻿B) Comprehend — Analiza sentimiento automáticamente sin entrenar modelos.
+
+B) ML es un subconjunto de IA — ML aprende patrones usando datos históricos.
+
+C) Polly — Convierte texto en voz realista natural.
+
+B) SageMaker — Crea, entrena y despliega modelos propios.
+
+B) Data scientists — Diseñan, entrenan y optimizan modelos ML.
+
+B) Rekognition — Detecta objetos y personas en videos.
+
+A) SageMaker— Servicio IA preconstruido listo para usar.
+
+B) Lex — Crea chatbots con voz y texto.
+
+C) Listos para usar — No requieren entrenamiento previo ni servidores.
+
+B) Personalize — Genera recomendaciones personalizadas para usuarios.
+
+
+
+
+Servicios de IA: Imagina que tu empresa recibe correos en japonés, alemán y francés. En lugar de contratar traductores para todo, usas Amazon Translate para que, automáticamente, traduzca esos correos a tu idioma y puedas entenderlos al instante.
+
+
+Servicios de ML: Piensa en esa tienda virtual que parece conocerte mejor que nadie. Amazon Personalize analiza qué estás viendo o qué has comprado antes y, basándose en patrones de otros usuario.
+
+
+Frameworks: Para un uso de datos masivos
